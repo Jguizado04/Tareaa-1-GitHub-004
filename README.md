@@ -24,3 +24,5 @@ Aplicaciones desarrolladas
 
  Experiencia previa
 He realizado proyectos académicos y trabajos en equipo usando control de versiones con Git.
+
+hola...
